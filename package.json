@@ -1,0 +1,33 @@
+{
+  "name": "roast-my-git",
+  "version": "1.0.0",
+  "description": "Roast your git habits, not your code",
+  "type": "module",
+  "bin": {
+    "roast-my-git": "./bin/roast.js"
+  },
+  "scripts": {
+    "start": "node bin/roast.js",
+    "test": "node bin/roast.js --help"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "developer-tools",
+    "humor",
+    "roast"
+  ],
+  "author": "NickCirv <nick@cirvgreen.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/roast-my-git"
+  }
+}
