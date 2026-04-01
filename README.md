@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # roast-my-git
 
 Your git habits, mercilessly analyzed. Night commits, Friday afternoon deploys, `wip` messages — it sees everything.
